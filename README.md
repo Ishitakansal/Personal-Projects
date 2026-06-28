@@ -1,6 +1,6 @@
 # Personal-Projects
 
-This repository contains all the personaL projects I've made so far related to data analysis. It consists of Excel Projects, Tableau Projects, SQL Projects, Python/R Projects.
+This repository contains all the personaL projects I've made so far related to data analysis. It consists of Excel Projects, Tableau Projects.
 
 Excel Projects: Bike sales Analysis, Road accident analysis, E-Commerce Analysis, HR Analytics, IPL Analysis (present in the Excel Projects folder)
 
